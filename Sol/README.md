@@ -19,13 +19,14 @@
 ### Estudos dos tópico para o pré-processamento da imagem no arquivo de Estudos.ipyn
 ##### **Conceitos:**
 - Redimensionamento
-- Binalização
+- Binarização
 - Remoção de ruído
 - Correção de distorção
 
 - Caixas ao redor do texto
 - Modelos de segmentação de página
-- Detectação em várias linguas 
+- Detectação
+ em várias linguas 
 
 <br>
 
